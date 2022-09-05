@@ -1,3 +1,5 @@
+## **YOU NEED BOTH MODS IN ORDER FOR IT TO WORK, IF YOU RECIEVE ERRORS I AM NOT RESPONSIBLE.**
+
 # Auction House Flipping Mod
 This auto flipping mod is created and maintained by Michael, i have full ownership over this project and if the project at any point seemingly comes out of hand i will have to take down the project. I created this project in the legitiamcy of the community to show everyone that creating faulty modules and "ratting" peoples personal minecraft accounts and information is incredibly nieve, ignorant and stupid, people having asked me day in day out to make a proper flipping mod that wont steal your information because many people have been doing this now. 
 
